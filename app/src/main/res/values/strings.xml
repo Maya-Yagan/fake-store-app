@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework3</string>
+    <string name="network_error">Network error</string>
+    <string name="title">title</string>
+    <string name="price">price</string>
+    <string name="product">product</string>
+</resources>
